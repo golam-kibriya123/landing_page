@@ -77,10 +77,9 @@ ul {
     text-decoration: none;
     color: var(--color-primary);
     font-weight: 600;
-    padding: 10px 15px;
+    padding: 8px 10px;
     margin: 0 5px;
     position: relative;
-    border: 1px solid;
 
 }
 
