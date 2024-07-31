@@ -186,7 +186,7 @@ ul {
 
 .blog-section .blogs .blog {
     flex-basis: 31%;
-    margin: 10px ;
+    margin: 10px;
 
 }
 
@@ -220,8 +220,21 @@ ul {
 
 .blog-section .blogs .blog .blog-btn {
     margin-top: 10px;
-    
+
     text-decoration: none;
     color: var(--color-primary);
     font-weight: 500;
+}
+
+.blogs-btn {
+    margin: 40px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blogs-btn a {
+    text-decoration: none;
+    color: var(--color-light);
+    background: var(--color-primary);
 }
